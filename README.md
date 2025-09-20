@@ -7,12 +7,6 @@ A comprehensive business intelligence dashboard for pizza restaurant sales analy
 📊 Short Description
 An interactive sales dashboard that visualizes pizza sales data from 15 January to 15 December, featuring key performance indicators, trend analysis, and detailed breakdowns by pizza categories, sizes, and time periods. The dashboard enables restaurant managers to track performance, identify best/worst sellers, and optimize business operations.
 
-🛠️ Technology Stack
-The Dashboard was built using the following tools and technologies:
-Power BI Desktop - Main data visualization platform used for report creation.
-Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
-DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
-File Format - pdf files and csv files for development and .png for dashboard previews.
 
 ✨ Key Features
 
@@ -48,6 +42,14 @@ Filter Capabilities: Date range and category filtering.
 Interactive Navigation: Multi-page dashboard with sidebar navigation.
 Responsive Design: Optimized for desktop and mobile viewing.
 Real-time Updates: Dynamic data refresh capabilities.
+
+🛠️ Technology Stack
+The Dashboard was built using the following tools and technologies:
+Power BI Desktop - Main data visualization platform used for report creation.
+Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
+File Format - pdf files and csv files for development and .png for dashboard previews.
+
 
 Screenshot /Demos:
 https://github.com/sdhaksiya20/Pizza_Sales_Report/blob/main/sanpshot%20pizza%20sales%20by%20best%20%26%20worst.png
