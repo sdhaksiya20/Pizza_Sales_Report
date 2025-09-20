@@ -15,6 +15,7 @@ DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals,
 File Format - pdf files and csv files for development and .png for dashboard previews.
 
 ✨ Key Features
+
 📈 Performance Metrics Dashboard
 
 Revenue Tracking: Total revenue of $817.86K with comprehensive financial overview.
