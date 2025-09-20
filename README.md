@@ -59,7 +59,7 @@ Responsive Design: Optimized for desktop and mobile viewing.
 Real-time Updates: Dynamic data refresh capabilities.
 
 
-🛠️ Technology Stack
+5.🛠️ Technology Stack
 
 The Dashboard was built using the following tools and technologies:
 
